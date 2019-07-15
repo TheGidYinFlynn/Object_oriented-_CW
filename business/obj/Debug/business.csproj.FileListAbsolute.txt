@@ -1,0 +1,6 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\coursework\business\obj\Debug\business.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\coursework\business\obj\Debug\business.csproj.GenerateResource.Cache
+F:\uni shit\old projects\Projects\coursework\business\obj\Debug\business.csprojAssemblyReference.cache
+F:\uni shit\old projects\Projects\coursework\business\obj\Debug\business.Properties.Resources.resources
+F:\uni shit\old projects\Projects\coursework\business\obj\Debug\business.csproj.GenerateResource.cache
+F:\uni shit\old projects\Projects\coursework\business\obj\Debug\business.csproj.CoreCompileInputs.cache

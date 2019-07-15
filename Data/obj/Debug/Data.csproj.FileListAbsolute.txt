@@ -1,0 +1,7 @@
+C:\Users\David\Documents\Visual Studio 2013\Projects\coursework\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\David\Documents\Visual Studio 2013\Projects\coursework\Data\obj\Debug\Data.Properties.Resources.resources
+C:\Users\David\Documents\Visual Studio 2013\Projects\coursework\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+F:\uni shit\old projects\Projects\coursework\Data\obj\Debug\Data.csprojAssemblyReference.cache
+F:\uni shit\old projects\Projects\coursework\Data\obj\Debug\Data.Properties.Resources.resources
+F:\uni shit\old projects\Projects\coursework\Data\obj\Debug\Data.csproj.GenerateResource.cache
+F:\uni shit\old projects\Projects\coursework\Data\obj\Debug\Data.csproj.CoreCompileInputs.cache
